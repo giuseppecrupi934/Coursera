@@ -1,2 +1,2 @@
 # Coursera
-GitHub training with Coursera
+GitHub training with Coursera!
